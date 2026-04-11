@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p57863-e1189643.adobeaemcloud.com/bin/franklin.delivery/sufyanharoon/form-generation-demo/main
+    type: markup
+    suffix: .html
